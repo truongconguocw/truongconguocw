@@ -1,6 +1,6 @@
 <img src="ỉntroreadme.gif" alt="👋 Xin Chào Tất Cả Các Con Vợ" title="👋 Xin Chào Tát Cả Các Con Vợ"/>
 
-## Contacts
+## Liên Hệ
 <div align="justify">
 
 </a>
