@@ -30,6 +30,7 @@
 <p align="justify">
 Rất Vui Khi Được Làm Việc Với Các Bạn
 </p>
+
 ## Các công cụ và công nghệ yêu thích của tôi ⚙️
 
 > Các công cụ và công nghệ mà tôi đã làm việc và quan tâm
