@@ -28,7 +28,7 @@
 </div>
 <p></p>
 <p align="justify">
-Rất Vui Khi Được Làm Việc Với Các Bạn
+"Hợp Tác Cùng Phát Triển"
 </p>
 
 ## Các công cụ và công nghệ yêu thích của tôi ⚙️
