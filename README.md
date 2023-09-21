@@ -1,6 +1,6 @@
 <img src="ỉntroreadme.gif" alt="👋 Xin Chào Tất Cả Các Con Vợ" title="👋 Xin Chào Tát Cả Các Con Vợ"/>
 
-## Contacts With Me|Liên Hệ
+## Contacts With Me
 <div align="justify">
 
 </a>
@@ -31,10 +31,9 @@
 "Racketeering"
 </p>
 
-## My favorite tools and technologies|Các công cụ và công nghệ yêu thích của tôi ⚙️
+## My favorite tools and technologies ⚙️
 
-> Tools and technologies that I have worked with and are interested|Các công cụ và công nghệ mà tôi đã làm việc và quan tâm
-
+> Tools and technologies that I have worked with and are interested
 <table>
   <tr>
     <td align="center" width="96">
